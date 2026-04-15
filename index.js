@@ -1,4 +1,5 @@
 // Express API Server - itec06-api
+// Created by: Iyong Pangalan
 const express = require('express')
 const app = express()
 const PORT = 3000
